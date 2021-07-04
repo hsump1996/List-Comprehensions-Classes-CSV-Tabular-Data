@@ -1,4 +1,9 @@
-# Candy Power Ranking
+# Part 1 - tabletools.py
+
+Created (a maybe over-engineered) module for reading in csvs and filtering rows based on column values. Used some Python features in your implementation, like __iter__, list comprehensions, etc.
+
+
+# Part 2 - Candy Power Ranking
 
 This folder contains the data behind the story [The Ultimate Halloween Candy Power Ranking](http://fivethirtyeight.com/features/the-ultimate-halloween-candy-power-ranking/).
 
